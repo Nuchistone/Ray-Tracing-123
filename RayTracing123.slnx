@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RayTracing123/RayTracing123.vcxproj" Id="7c28fee5-56f7-439f-ab39-48ffedaf2423" />
+</Solution>
